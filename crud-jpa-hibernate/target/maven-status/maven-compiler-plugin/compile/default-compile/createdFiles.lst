@@ -1,6 +1,6 @@
-com/algaworks/curso/main/ConsultandoComJPQL.class
-com/algaworks/curso/main/ConsultandoPrimeiroObjeto.class
-com/algaworks/curso/modelo/Cliente.class
-com/algaworks/curso/main/AtualizandoPrimeiroObjeto.class
-com/algaworks/curso/main/SalvandoPrimeiroObjeto.class
-com/algaworks/curso/main/RemovendoPrimeiroObjeto.class
+com/algaworks/curso/main/EnregistrementDuPremierObjet.class
+com/algaworks/curso/main/InterrogationDuPremierObjet.class
+com/algaworks/curso/main/MiseAjourDuPremierObjet.class
+com/algaworks/curso/modelo/Customer.class
+com/algaworks/curso/main/SupprimerFirstObject.class
+com/algaworks/curso/main/ConsulterAvecJPQL.class
